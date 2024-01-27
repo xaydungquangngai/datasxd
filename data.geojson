@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dahn",
+        "sss": "sss",
+        "_color": "#eb144c",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#e06666",
+        "_fillOpacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.902836,
+              14.947687
+            ],
+            [
+              108.922577,
+              14.973393
+            ],
+            [
+              108.952789,
+              14.954819
+            ],
+            [
+              108.908844,
+              14.935663
+            ],
+            [
+              108.902836,
+              14.947687
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
