@@ -28197,10 +28197,6 @@
             [
               108.90116,
               14.939629
-            ],
-            [
-              108.90116,
-              14.939629
             ]
           ]
         ]
@@ -32228,18 +32224,6 @@
             [
               108.893857,
               14.950503
-            ],
-            [
-              108.893846,
-              14.950494
-            ],
-            [
-              108.893846,
-              14.950494
-            ],
-            [
-              108.893846,
-              14.950494
             ],
             [
               108.893846,
@@ -85702,33 +85686,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            108.878409,
-            14.916772
-          ],
-          [
-            108.875625,
-            14.925856
-          ],
-          [
-            108.875506,
-            14.926147
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_003",
-        "description": "GT - timduong",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             108.890641,
             14.923091
           ],
@@ -89221,37 +89178,6 @@
           [
             108.884815,
             14.957097
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_003",
-        "description": "GT - timduong",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            108.884554,
-            14.945424
-          ],
-          [
-            108.887489,
-            14.94652
-          ],
-          [
-            108.888963,
-            14.947079
-          ],
-          [
-            108.890784,
-            14.947683
           ]
         ]
       }
@@ -113618,29 +113544,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            108.873039,
-            14.935983
-          ],
-          [
-            108.883586,
-            14.914493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_003",
-        "description": "1-Duongsat",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             108.873291,
             14.9361
           ],
@@ -114326,121 +114229,6 @@
           [
             108.878585,
             14.941469
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_005",
-        "description": "--ha-dg sat",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 3
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            108.873165,
-            14.936041
-          ],
-          [
-            108.883712,
-            14.914551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_007",
-        "description": "DUONG CAO TOC",
-        "_color": "#ffffff",
-        "_opacity": 1,
-        "_weight": 3
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            108.871385,
-            14.935213
-          ],
-          [
-            108.881614,
-            14.913576
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_007",
-        "description": "DUONG CAO TOC",
-        "_color": "#ffffff",
-        "_opacity": 1,
-        "_weight": 3
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            108.871917,
-            14.935464
-          ],
-          [
-            108.882147,
-            14.913827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_007",
-        "description": "DUONG CAO TOC",
-        "_color": "#ffffff",
-        "_opacity": 1,
-        "_weight": 3
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            108.872044,
-            14.935521
-          ],
-          [
-            108.882273,
-            14.913884
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Polyline_007",
-        "description": "DUONG CAO TOC",
-        "_color": "#ffffff",
-        "_opacity": 1,
-        "_weight": 3
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            108.871258,
-            14.935156
-          ],
-          [
-            108.881488,
-            14.913519
           ]
         ]
       }
@@ -117797,6 +117585,205 @@
           [
             108.894931,
             14.958508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_003",
+        "description": "1-Duongsat",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.873039,
+            14.935983
+          ],
+          [
+            108.883586,
+            14.914493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_005",
+        "description": "--ha-dg sat",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.873165,
+            14.936041
+          ],
+          [
+            108.883712,
+            14.914551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_007",
+        "description": "DUONG CAO TOC",
+        "_color": "#ffffff",
+        "_opacity": 1,
+        "_weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.871917,
+            14.935464
+          ],
+          [
+            108.882147,
+            14.913827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_007",
+        "description": "DUONG CAO TOC",
+        "_color": "#ffffff",
+        "_opacity": 1,
+        "_weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.872044,
+            14.935521
+          ],
+          [
+            108.882273,
+            14.913884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_007",
+        "description": "DUONG CAO TOC",
+        "_color": "#ffffff",
+        "_opacity": 1,
+        "_weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.871258,
+            14.935156
+          ],
+          [
+            108.881488,
+            14.913519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_007",
+        "description": "DUONG CAO TOC",
+        "_color": "#ffffff",
+        "_opacity": 1,
+        "_weight": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.871385,
+            14.935213
+          ],
+          [
+            108.881614,
+            14.913576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_003",
+        "description": "GT - timduong",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.878409,
+            14.916772
+          ],
+          [
+            108.875625,
+            14.925856
+          ],
+          [
+            108.875506,
+            14.926147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyline_003",
+        "description": "GT - timduong",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.884554,
+            14.945424
+          ],
+          [
+            108.887489,
+            14.94652
+          ],
+          [
+            108.888963,
+            14.947079
+          ],
+          [
+            108.890784,
+            14.947683
           ]
         ]
       }
