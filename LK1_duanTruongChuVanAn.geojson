@@ -24,6 +24,144 @@
           15.123269
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<table>\n<tr><td>Tên lỗ khoan:</td><td>LK2</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>8m</td></tr>\n<tr><td>Mô tả:</td><td>3 lớp; lớp 1 đất sỏi đồi lẫn dăm sạn dày 1m, lớp 2 sét pha màu nêu vàng dày 2,7m. lớp 3 sét pha màu vàng nâu xám vòng loang lổ trắng dày &gt;4,3m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672698.7069</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584909.5095</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK2_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.791817,
+          15.122999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "\n<table>\n<tr><td>Tên lỗ khoan:</td><td>LK5</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>12m</td></tr>\n<tr><td>Mô tả:</td><td>4 lớp; lớp 1 đất sỏi đồi lẫn dăm sạn dày 1,2m, lớp 2 sét pha màu nêu vàng dày 2,5m, lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày 6,3m, lớp 4 cát hạt trung màu xám trắng, xám vàng dày &gt;2m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672722.0872</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584978.2424</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK5_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>\n",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.792257,
+          15.122886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "\n<table>\n<tr><td>Tên lỗ khoan:</td><td>LK5</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>12m</td></tr>\n<tr><td>Mô tả:</td><td>4 lớp; lớp 1 đất sỏi đồi lẫn dăm sạn dày 1,2m, lớp 2 sét pha màu nêu vàng dày 2,5m, lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày 6,3m, lớp 4 cát hạt trung màu xám trắng, xám vàng dày &gt;2m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672722.0872</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584978.2424</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK5_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.792457,
+          15.123208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<table>\n<tr><td>Tên lỗ khoan:</td><td>LK6</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>12m</td></tr>\n<tr><td>Mô tả:</td><td>4 lớp; lớp 1 đất sỏi đồi lẫn dăm sạn dày 1,1m, lớp 2 sét pha màu nêu vàng dày 2,5m, lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày 6,5m, lớp 4 cát hạt trung màu xám trắng, xám vàng dày &gt;2,3m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672748.9039</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584956.0141</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK6_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.792252,
+          15.123451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<table>\n<tr><td>Tên lỗ khoan:</td><td>LK7</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>8m</td></tr>\n<tr><td>Mô tả:</td><td>3 lớp; lớp 1 đất sỏi đồi lẫn dăm sạn dày 1,3m, lớp 2 sét pha màu nêu vàng dày 2,3m. lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày &gt;4,4m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672755.8295</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584903.7824</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK7_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>\n",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.791766,
+          15.123515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "\n\n<table>\n<tr><td>Tên lỗ khoan:</td><td>LK3</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>8m</td></tr>\n<tr><td>Mô tả:</td><td>2 lớp; lớp 2 sét pha màu nêu vàng dày 2,8m. lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày &gt;5,2m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672655.5454</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584932.3645</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK3_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.792028,
+          15.122608
+        ]
+      }
     }
   ]
 }
