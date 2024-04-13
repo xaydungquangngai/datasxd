@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "　"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.80368,
+          15.123269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:#20124d;\">            Thời gian trên12h; <br>              sâu (0,4 ÷ 0,6)m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.790449,
+          15.115352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 6 giờ<br>Sâu (0,4 ÷ 0,6)m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.79926,
+          15.120591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 6 giờ<br>Sâu 0,4m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.794839,
+          15.122072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 3 giờ<br>Sâu 0,4m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.79816,
+          15.124486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 8 giờ<br>Sâu (0,4 ÷ 0,6)m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.800912,
+          15.124102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 6 giờ<br>Sâu 0,4m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.803664,
+          15.1237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 8 giờ<br>Sâu 0,5m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.805043,
+          15.121824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 8 giờ<br>Sâu trên 0,6m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.798423,
+          15.116024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">            Thời gian trên12h; <br>              Sâu trên 0,6m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.797856,
+          15.111391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">            Thời gian trên12h; <br>              Sâu (0,4 ÷ 0,6)m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.803588,
+          15.112142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 8 giờ<br>Sâu 0,5m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.810627,
+          15.108468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 8 giờ<br>Sâu (0,4 ÷ 0,6)m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.799064,
+          15.106964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian 2 giờ<br>Sâu 0,4m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.808594,
+          15.10363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian\t6 giờ<br>Sâu 0,4m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.797841,
+          15.098935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian trên 12h; <br>Sâu (0,6 ÷ 1,0)m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.771932,
+          15.108007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "DivIcon",
+        "_html": "<div style=\"font-size:15pt;font-weight:bold;color:rgb(32, 18, 77);\">Thời gian\t4 giờ<br>Sâu 0,5m</div>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.795955,
+          15.157481
+        ]
+      }
+    }
+  ]
+}
