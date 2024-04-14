@@ -4,29 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "\n\n<table>\n<tr><td>Tên lỗ khoan:</td><td>LK3</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>8m</td></tr>\n<tr><td>Mô tả:</td><td>2 lớp; lớp 2 sét pha màu nêu vàng dày 2,8m. lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày &gt;5,2m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672655.5454</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584932.3645</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK3_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
-        "_markerType": "Icon",
-        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.792028,
-          15.122608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "LK1",
         "description": "<table>\n<tr><td>Tên lỗ khoan:</td><td>LK1</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>8m</td></tr>\n<tr><td>Mô tả:</td><td>3 lớp; lớp 1 đất sỏi đồi lẫn dăm sạn dày 1,3m, lớp 2 sét pha màu nêu vàng dày 2,3m. lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày &gt;4,4m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672728.4409</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584874.6997</td></tr>\n<tr><td>Thời điểm khảo sát (năm):</td><td>2024</td></tr>\n<tr><td>Đơn vị khảo sát:</td><td>Chi nhánh Trung tâm phát triển công nghệ kỹ thuật giao thông tại Quảng Ngãi</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK1_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
         "_markerType": "Icon",
@@ -160,6 +137,29 @@
         "coordinates": [
           108.791817,
           15.122999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "\n\n<table>\n<tr><td>Tên lỗ khoan:</td><td>LK3</td></tr>\n<tr><td>Chiều sâu khoan:</td><td>8m</td></tr>\n<tr><td>Mô tả:</td><td>2 lớp; lớp 2 sét pha màu nêu vàng dày 2,8m. lớp 3 sét pha màu vàng nêu xám vòng loang lổ trắng dày &gt;5,2m</td></tr>\n<tr><td>Dự án:</td><td>Xây dựng Trường Tiểu học và Trung học cơ sở Chu Văn An</td></tr>\n<tr><td>Chủ đầu tư:</td><td>Ban Quản lý dự án ĐTXD và PTQĐ thành phố Quảng Ngãi</td></tr>\n<tr><td>Tọa độ X(m):</td><td>1672655.5454</td></tr>\n<tr><td>Tọa độ  Y(M):</td><td>584932.3645</td></tr>\n<tr><td>Thời điểm khảo sát (năm):</td><td>2024</td></tr>\n<tr><td>Đơn vị khảo sát:</td><td>Chi nhánh Trung tâm phát triển công nghệ kỹ thuật giao thông tại Quảng Ngãi</td></tr>\n</table>\n<a href=\"https://raw.githubusercontent.com/xaydungquangngai/datasxd/main/LK3_duanTruongChuVanAn.pdf\" download>Tải kết quả</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1110.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.792028,
+          15.122608
         ]
       }
     }
