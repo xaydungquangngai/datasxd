@@ -1,0 +1,554 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TỊNH THỌ - H. HỐ QUÝT",
+        "description": "- Năm HT: 1982\n- Năm SC, NC gần nhất: 2010\n- Flv = 1.75 km2\n- F tk = 110ha\n- F tt = 91ha\n- W trữ = 0.96 tr m3\n- MNDBT: +35.17\n- MNC: +24.45\n- MNDGC: +36.65\n- Đập chính:\n+ CTr: +37.5\n+ H = 15.0m\n+ L = 446m\n- Tràn xả lũ: Tự do\n+ CTr: +35.17\n+ Htr: 1.48 m\n+ B = 15.0 m\n+ Q = 41.74 m3/s\n- Cống lấy nước:\n+ D40, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.735293,
+          15.239377,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NGHĨA THỌ - H. HÓC XOÀI",
+        "description": "- Năm HT: 2009\n- Flv = 8.72 km2\n- F tk = 235ha\n- F tt = 74ha\n- W trữ = 1.55 tr m3\n- MNDBT: +46.20\n- MNC: +36.13\n- MNDGC: +49.29\n- Đập chính:\n+ CTr: +49.32\n+ H = 22.0m\n+ L = 245m\n- Tràn xả lũ: Tự do\n+ CTr: +46.20\n+ Htr: 3.09 m\n+ B = 25.0 m\n+ Q = 247.65 m3/s\n- Cống lấy nước:\n+ Q = 0.26 m3/s\n+ D60, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.693693,
+          15.088643,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HÀNH TÍN TÂY - H. CÂY QUEN",
+        "description": "- Năm HT: 2011\n- Flv = 2.32 km2\n- F tk = 118.5ha\n- F tt = 74ha\n- W trữ = 0.86 tr m3\n- MNDBT: +61.55\n- MNC: +48.30\n- MNDGC: +63.45\n- Đập chính:\n+ CTr: +64.40\n+ H = 23.0m\n+ L = 180m\n- Tràn xả lũ: Tự do\n+ CTr: +61.55\n+ Htr: 1.87 m\n+ B = 20 m\n+ Q = 76.62 m3/s\n- Cống lấy nước:\n+ D40, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.745039,
+          14.927006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HÀNH THIỆN - H. HÓC CÀI",
+        "description": "- Năm HT: 2018\n- Flv = 1.95 km2\n- F tk = 80ha\n- F tt = 00ha\n- W trữ = 0.43 tr m3\n- MNDBT: +54.98\n- MNC: +46.00\n- MNDGC: +56.85\n- Đập chính:\n+ CTr: +57.60\n+ H = 19.25m\n+ L = 278.2m\n- Tràn xả lũ: Tự do\n+ CTr: +54.98\n+ Htr: 1.87 m\n+ B = 16.0 m\n+ Q = 63.33 m3/s\n- Cống lấy nước:\n+ Q = 0.09 m3/s\n+ D80, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.763475,
+          14.970618,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ĐỨC PHÚ - H. HÓC SẰM",
+        "description": "- Năm HT: 1984\n- Năm SC, NC gần nhất: 2015\n- Flv = 7.5 km2\n- F tk = 140ha\n- F tt = 104ha\n- W trữ = 1.45 tr m3\n- MNDBT: +20.40\n- MNC: +12.00\n- MNDGC: +21.81\n- Đập chính:\n+ CTr: +22.70\n+ H = 12.0m\n+ L = 600m\n- Tràn xả lũ: Tự do\n+ CTr: +20.40\n+ Htr: 1.41 m\n+ B = 60 m\n+ Q = 168.94 m3/s\n- Cống lấy nước:\n+ Q = 0.26 m3/s\n+ D50, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.838489,
+          14.923261,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ĐỨC PHÚ - H. MẠCH ĐIỂU",
+        "description": "- Năm HT: 1986\n- Năm SC, NC gần nhất: 2012\n- Flv = 3.55 km2\n- F tk = 270ha\n- F tt = 94ha\n- W trữ = 2.27 tr m3\n- MNDBT: +26.69\n- MNC: +19.35\n- MNDGC: +28.17\n- Đập chính:\n+ CTr: +29.05\n+ H = 12.75m\n+ L = 626m\n- Tràn xả lũ: Tự do\n+ CTr: +26.69\n+ Htr: 1.48 m\n+ B = 24 m\n+ Q = 67.26 m3/s\n- Cống lấy nước:\n+ Q = 0.33 m3/s\n+ D60, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.816583,
+          14.941232,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ĐỨC TÂN - H. ĐÁ BÀN",
+        "description": "- Năm HT: 1976\n- Năm SC, NC gần nhất: 2014\n- Flv = 5.72 km2\n- F tk = 100ha\n- F tt = 39ha\n- W trữ = 1.03 tr m3\n- MNDBT: +20.68\n- MNC: +17.33\n- MNDGC: +22.60\n- Đập chính:\n+ CTr: +23.30\n+ H = 10.0m\n+ L = 1271 m\n- Tràn xả lũ: Tự do\n+ CTr: +20.68\n+ Htr: 1.92 m\n+ B = 25.0 m\n+ Q = 111.36 m3/s\n- Cống lấy nước:\n+ Q = 0.18 m3/s\n+ D40, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.871116,
+          14.928799,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ CHÂU - H. CÂY SANH",
+        "description": "- Năm HT: 2005\n- Flv = 2.50 km2\n- F tk = 200 ha\n- F tt = 69 ha\n- W trữ = 0.65 tr m3\n- MNDBT: +26.70\n- MNC: +12.40\n- MNDGC: +28.20\n- Đập chính:\n+ CTr: +29.50\n+ H = 21.5 m\n+ L = 176 m\n- Tràn xả lũ: Tự do\n+ CTr: +26.7\n+ Htr: 1.50 m\n+ B = 20.0 m\n+ Q = 69.0 m3/s\n- Cống lấy nước:\n+ Q = 0.25 m3/s\n+ D50, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.050131,
+          14.641616,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ CƯỜNG - H. HUÂN PHONG",
+        "description": "- Năm HT: 1980\n- Năm SC, NC gần nhất: 2012\n- Flv = 1.85 km2\n- F tk = 165 ha\n- F tt = 146 ha\n- W trữ = 1.90 tr m3\n- MNDBT: +33.50\n- MNC: +25.30\n- MNDGC: +34.50\n- Đập chính:\n+ CTr: +35.50\n+ H = 13.80 m\n+ L = 435 m\n- Tràn xả lũ: Tự do\n+ CTr: +33.50\n+ Htr: 1.00 m\n+ B = 18.0 m\n+ Q = 27.92 m3/s\n- Cống lấy nước:\n+ Q = 0.29 m3/s\n+ D50, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.983329,
+          14.705095,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ HÒA - H. LIỆT SƠN",
+        "description": "- Năm HT: 1978\n- Năm SC, NC gần nhất: 2019\n- Flv = 36.80 km2\n- F tk = 1780ha\n- F tt = 1303.5ha\n- W trữ = 24.97 tr m3\n- MNDBT: +38.10\n- MNC: +22.50\n- MNDGC: +40.03\n- Đập chính:\n+ CTr: +43.10\n+ H = 26.80m\n+ L = 178m\n- Tràn xả lũ: 2 cửa van phẳng + Tự do\n+ CTr: +36.1/+38.1\n+ Htr: 2.13 m\n+ B = 2x7.0 + 2x9.9 + 15.0 = 48.80 m\n+ Q = 411.49 m3/s\n- Cống lấy nước:\n+ Q = 2.94 m3/s\n+ D100, BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.944839,
+          14.749866,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ KHÁNH - H. DIÊN TRƯỜNG",
+        "description": "- Năm HT: 1987\n- Năm SC, NC gần nhất: 2012\n- Flv = 22.20 km2\n- F tk = 500ha\n- F tt = 451ha\n- W trữ = 4.43 tr m3\n- MNDBT: +18.70\n- MNC: +11.00\n- MNDGC: +19.83\n- Đập chính:\n+ CTr: +21.10\n+ H = 21.00m\n+ L = 353m\n- Tràn xả lũ: 2 cửa van cung + Tự do\n+ CTr: +15.50\n+ Htr: 4.26 m\n+ B = 30.0 m\n+ Q = 434.05 m3/s\n- Cống lấy nước:\n+ 60x80, BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.022515,
+          14.7109,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ NHƠN - H. SỞ HẦU",
+        "description": "- Năm HT: 1976\n- Flv = 10.50 km2\n- F tk = 175ha\n- F tt = 208ha\n- W trữ = 2.23 tr m3\n- MNDBT: +30.00\n- MNC: +22.50\n- MNDGC: +31.36\n- Đập chính:\n+ CTr: +31.55\n+ H = 11.50m\n+ L = 502m\n- Tràn xả lũ: Tự do\n+ CTr: +30.00\n+ Htr: 136 m\n+ B = 60.0 m\n+ Q = 159.59 m3/s\n- Cống lấy nước:\n+ Q = 0.32 m3/s\n+ D60, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.874598,
+          14.814298,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ NHƠN - H. LỖ LÁ",
+        "description": "- Năm HT: 2018\n- Flv = 7.60 km2\n- F tk = 200 ha\n- F tt = 103 ha\n- W trữ = 1.94 tr m3\n- MNDBT: +26.00\n- MNC: +20.50\n- MNDGC: +28.17\n- Đập chính:\n+ CTr: +28.70\n+ H = 16.20 m\n+ L = 546.5 m\n- Tràn xả lũ: Tự do\n+ CTr: +26.0\n+ Htr: 2.17 m\n+ B = 25.0 m\n+ Q = 149.0 m3/s\n- Cống lấy nước:\n+ Q = 0.34 m3/s\n+ D60, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.902467,
+          14.794054,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ NINH - H. AN THỌ",
+        "description": "- Năm HT: 19738\n- Năm SC, NC gần nhất: 2012\n- Flv = 3.4 km2\n- F tk = 161.5ha\n- F tt = 105ha\n- W trữ = 2.69 tr m3\n- MNDBT: +27.30\n- MNC: +20.30\n- MNDGC: +28.40\n- Đập chính:\n+ CTr: +29.60\n+ H = 12.30m\n+ L = 276m\n- Đập phụ:\n+ CTr: +30.80\n+ H = 7.0m\n+ L = 277m\n- Tràn xả lũ: Tự do\n+ CTr: +27.30\n+ Htr: 1.10 m\n+ B = 35.0 m\n+ Q = 62.60 m3/s\n- Cống lấy nước:\n+ Q = 0.227 m3/s / 0.055 m3/s\n+ D60/D40, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.938742,
+          14.795165,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BA LIÊN - H. NÚI NGANG",
+        "description": "- Năm HT: 2003\n- Flv = 57.00 km2\n- F tk = 1450ha\n- F tt = 750ha\n- W trữ = 21.07 tr m3\n- MNDBT: +61.00\n- MNC: +48.50\n- MNDGC: +63.30\n- Đập chính:\n+ CTr: +65.20\n+ H = 28.70m\n+ L = 175m\n- Đập phụ:\n+ CTr: +65.20\n+ H = 18.70m\n+ L = 250m\n- Tràn xả lũ: 2 cửa van cung + Tự do\n+ CTr: +56.0\n+ Htr: 2.30 m\n+ B = 24.0 m\n+ Q = 833 m3/s\n- Cống lấy nước:\n+ Q = 2.60 m3/s\n+ D120, BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.817939,
+          14.823594,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BA THÀNH - H. SUỐI LOA",
+        "description": "- Năm HT: 2012\n- Flv = 4.00 km2\n- F tk = 117 ha\n- F tt = 25 ha\n- W trữ = 0.38 tr m3\n- MNDBT: +55.40\n- MNC: +48.15\n- MNDGC: +57.98\n- Đập chính:\n+ CTr: +59.00\n+ H = 21.0 m\n+ L = 230.85 m\n- Tràn xả lũ: Tự do\n+ CTr: +55.40\n+ Htr: 2.58 m\n+ B = 20.0 m\n+ Q = 128.25 m3/s\n- Cống lấy nước:\n+ D80, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.762967,
+          14.803619,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LONG MAI - H. HỐ CẢ",
+        "description": "- Năm HT: 2012\n- Flv = 4.07 km2\n- F tk = 163ha\n- F tt = 17.2ha\n- W trữ = 1.17 tr m3\n- MNDBT: +72.60\n- MNC: +61.15\n- MNDGC: +74.80\n- Đập chính:\n+ CTr: +75.50\n+ H = 24.0m\n+ L = 308m\n- Tràn xả lũ: Tự do\n+ CTr: +72.60\n+ Htr: 2.2 m\n+ B = 30.0 m\n+ Q = 151.78 m3/s\n- Cống lấy nước:\n+ D40, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7648,
+          14.990652,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TT DI LĂNG - H. DI LĂNG",
+        "description": "- Năm HT: 1985\n- Năm SC, NC gần nhất: 2021\n- Flv = 10.30 km2\n- F tk = 650 ha\n- F tt = 539 ha\n- W trữ = 8.31 tr m3\n- MNDBT: +104.30\n- MNC: +90.00\n- MNDGC: +107.13\n- Đập chính:\n+ CTr: +108.64\n+ H = 33.3 m\n+ L = 206 m\n- Tràn xả lũ: Tự do\n+ CTr: +104.30\n+ Htr: 2.83 m\n+ B = 26.0 m\n+ Q = 176.59 m3/s\n- Cống lấy nước:\n+ Q = 1.07 m3/s\n+ 80x120, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.488866,
+          15.073698,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SƠN BAO - H. NƯỚC TRONG",
+        "description": "- Năm HT: 2018\n- Flv = 460 km2\n- W trữ = 289.5 tr m3\n- MNDBT: +129.50\n- MNC: +96.00\n- MNDGC: +130.00\n- Đập chính:\n+ CTr: +132.50\n+ H = 68.5 m\n+ L = 437 m\n- Đập phụ:\n+ CTr: +133.0\n+ H = 41.7 m\n+ L = 241 m\n- Tràn xả lũ: 05 cửa van cung\n+ CTr: +115.5\n+ Htr: 0.5 m\n+ B = 80.5 m\n+ Q = 6728.0 m3/s\n- Cống lấy nước:\n+ Q = 30.05 m3/s\n+ D400, ống thép",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.417424,
+          15.081309,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TRÀ PHÚ - H. VỰC THÀNH",
+        "description": "- Năm HT: 2011\n- Flv = 6.83 km2\n- F tk = 120ha\n- F tt = 82ha\n- W trữ = 0.55 tr m3\n- MNDBT: +92.55\n- MNC: +86.00\n- MNDGC: +95.85\n- Đập chính:\n+ CTr: +96.25\n+ H = 23.90m\n+ L = 101m\n- Tràn xả lũ: Tự do\n+ CTr: +92.55\n+ Htr: 3.30 m\n+ B = 22.0 m\n+ Q = 219.47 m3/s\n- Cống lấy nước:\n+ Q = 0.32 m3/s\n+ D40, ống thép bọc BTCT",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.578264,
+          15.227897,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHỔ THẠNH - H. CÂY XOÀI",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.042089,
+          14.679523,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BÌNH NGUYÊN - H. HÓC DỌC",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Thông tin đập và cống</title>\n<style>\n    .scrollable {\n        overflow: auto;\n        height: 150px;\n        border: 1px solid #ccc;\n        padding: 10px;\n        font-family: Arial, sans-serif;\n        background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n        resize: both; /* Cho phép kéo rộng cả hai chiều */\n    }\n</style>\n</head>\n<body>\n<div class=\"scrollable\">\n    <ul>\n        <li><strong>Năm HT:</strong> 1978</li>\n        <li><strong>Năm SC, NC gần nhất:</strong> 2020</li>\n        <li><strong>Flv:</strong> 1.2 km2</li>\n        <li><strong>F tk:</strong> 70ha</li>\n        <li><strong>F tt:</strong> 54ha</li>\n        <li><strong>W trữ:</strong> 0.63 tr m3</li>\n        <li><strong>MNDBT:</strong> +17.60</li>\n        <li><strong>MNC:</strong> +11.44</li>\n        <li><strong>MNDGC:</strong> +18.92</li>\n        <li><strong>Đập chính:</strong>\n            <ul>\n                <li>CTr: +20.5</li>\n                <li>H: 10.5m</li>\n                <li>L: 185m</li>\n                <li>Tràn xả lũ: Tự do</li>\n                <li>CTr: +17.60</li>\n                <li>Htr: 1.32m</li>\n                <li>B: 7.5m</li>\n                <li>Q: 12.44 m3/s</li>\n            </ul>\n        </li>\n        <li><strong>Cống lấy nước:</strong>\n            <ul>\n                <li>Q: 0.1 m3/s</li>\n                <li>D50, ống thép bọc BTCT</li>\n            </ul>\n        </li>\n    </ul>\n</div>\n</body>\n</html>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/437.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.716338,
+          15.320496,
+          0
+        ]
+      }
+    }
+  ]
+}
