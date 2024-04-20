@@ -4,12 +4,392 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Xung quanh khu dân cư Bắc Lê Lợi",
+        "name": "Đường Lê Lợi (đoạn từ đường Phan Đình Phùng đến đường Lê Quý Đôn)",
         "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
         "Thời gian:": "8 giờ",
-        "Chiều sâu ngập:": "Trên 0,6m",
-        "Nguyên nhân:": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này",
+        "Chiều sâu ngập": "0,4m",
+        "Nguyên nhân": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này.",
         "Giải pháp:": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#3d85c6",
+        "_fillOpacity": 0.5,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.803423,
+              15.112997
+            ],
+            [
+              108.802603,
+              15.112999
+            ],
+            [
+              108.802603,
+              15.113035
+            ],
+            [
+              108.799242,
+              15.11307
+            ],
+            [
+              108.797762,
+              15.113011
+            ],
+            [
+              108.797269,
+              15.113012
+            ],
+            [
+              108.796447,
+              15.113023
+            ],
+            [
+              108.796508,
+              15.113558
+            ],
+            [
+              108.801496,
+              15.113516
+            ],
+            [
+              108.801667,
+              15.11359
+            ],
+            [
+              108.803432,
+              15.113601
+            ],
+            [
+              108.803423,
+              15.112997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Nguyễn Văn Linh (Khu vực Chợ Hàng Rượu)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n        <table>\n            <tr>\n                <td><strong>Lưu vực 5</strong></td>\n                <td>Phía Bắc sông Trà Khúc thuộc phường Trương Quang Trọng và xã Tịnh Án Tây</td>\n            </tr>\n            <tr>\n                <td><strong>Thời gian</strong></td>\n                <td>4 giờ</td>\n            </tr>\n            <tr>\n                <td><strong>Chiều sâu ngập</strong></td>\n                <td>0,5m</td>\n            </tr>\n            <tr>\n                <td><strong>Hướng thoát nước</strong></td>\n                <td></td>\n            </tr>\n            <tr>\n                <td><strong>Nguyên nhân</strong></td>\n                <td>Tại vị trí có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập.</td>\n            </tr>\n            <tr>\n                <td><strong>Giải pháp</strong></td>\n                <td>UBND thành phố đã chỉ đạo làm việc với Công ty TNHH Đầu tư Sông Trà (chủ đầu tư dự án Khu đô thị Chợ mới Hàng Rượu) khơi thông hố ga đấu nối thoát nước đường Nguyễn Văn Linh (tại vị trí nối với dự án Khu đô thị Chợ mới Hàng Rượu) tăng khả năng thoát nước cho khu vực này.</td>\n            </tr>\n        </table>\n    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#9fc5e8",
+        "_fillOpacity": 0.30000000000000004,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.798879,
+              15.158727
+            ],
+            [
+              108.796728,
+              15.156093
+            ],
+            [
+              108.796773,
+              15.155048
+            ],
+            [
+              108.7951,
+              15.155053
+            ],
+            [
+              108.795316,
+              15.159161
+            ],
+            [
+              108.798879,
+              15.158727
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Nguyễn Tự Tân (đoạn từ đường Phan Bội Châu – Phan Đình Phùng",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n\n\n<table>\n<tr><td>Lưu vực 1:</td><td>Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung</td></tr>\n<tr><td>Thời gian:</td><td>3 giờ </td></tr>\n<tr><td>Chiều sâu ngập:</td><td>0,4m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Đường Nguyễn Tự Tân có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập.</td></tr>\n<tr><td>Giải pháp:</td><td>Nối thẳng hệ thống thoát nước đường Phan Đình Phùng ra đường Quang Trung sau đó xả về hồ Bàu Cả vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố (2021-2025)</td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#9fc5e8",
+        "_fillOpacity": 0.19999999999999996,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.800412,
+              15.124545
+            ],
+            [
+              108.800383,
+              15.124539
+            ],
+            [
+              108.800481,
+              15.123914
+            ],
+            [
+              108.797068,
+              15.123417
+            ],
+            [
+              108.797116,
+              15.124938
+            ],
+            [
+              108.800312,
+              15.125462
+            ],
+            [
+              108.800412,
+              15.124545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Phan Đình Phùng (đoạn trước Thành ủy)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Khu vực 1:</td><td>Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung  </td></tr>\n<tr><td>Thời gian ngập:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Do đường Phan Đình Phùng (đoạn trước Thành ủy) có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập. <br>Đồng thời, hệ thống thoát nước đi dưới vỉa hè đường Phan Đình Phùng, chuyển hướng dọc theo đường hẻm hiện trạng ra KDC Bàu Cả, sau đó đi gấp khúc 2 lần đấu nối vào thoát nước Bàu Sử - Bàu Cả, do hệ thống thoát đi quanh co, gấp khúc cho nên thoát nước chậm</td></tr>\n<tr><td>Giải pháp:</td><td>Nối thẳng hệ thống thoát nước đường Phan Đình Phùng ra đường Quang Trung sau đó xả về hồ Bàu Cả vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố (2021-2025)</td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#3d85c6",
+        "_fillOpacity": 0.5,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.802382,
+              15.123565
+            ],
+            [
+              108.800578,
+              15.12329
+            ],
+            [
+              108.800481,
+              15.123914
+            ],
+            [
+              108.800412,
+              15.124545
+            ],
+            [
+              108.80215,
+              15.124944
+            ],
+            [
+              108.802382,
+              15.123565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngã tư Hùng Vương – Quang Trung",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 1:</td><td>Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung </td></tr>\n<tr><td>Thời gian ngập:</td><td>6 giờ</td></tr>\n<tr><td>Chiều sâu ngập</td><td>0,4m</td></tr>\n<tr><td>Nguyên nhân</td><td>Tại ngã tư Hùng Vương – Quang Trung, có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập</td></tr>\n<tr><td>Giải pháp</td><td>Đầu tư nâng cấp hệ thống thoát nước đường Quang Trung (đoạn từ đường Nguyễn Nghiêm – hồ Bàu Cả) đấu nối vào hồ Bàu Cả</td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#6fa8dc",
+        "_fillOpacity": 0.30000000000000004,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.805275,
+              15.122628
+            ],
+            [
+              108.804317,
+              15.122354
+            ],
+            [
+              108.80369,
+              15.122003
+            ],
+            [
+              108.802602,
+              15.12412
+            ],
+            [
+              108.804503,
+              15.124855
+            ],
+            [
+              108.805275,
+              15.122628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Hùng Vương (đoạn trước tỉnh Đoàn)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Khu vực 1:</td><td>Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung  </td></tr>\n<tr><td>Thời gian: </td><td>6 giờ </td></tr>\n<tr><td>Chiều sâu ngập:</td><td>0,4m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Đường Hùng Vương (đoạn trước tỉnh Đoàn) có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập</td></tr>\n<tr><td>Giải pháp:</td><td>Nối thẳng hệ thống thoát nước đường Phan Đình Phùng ra đường Quang Trung sau đó xả về hồ Bàu Cả vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố (2021-2025)</td></tr>\n</table>\n  </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#6fa8dc",
+        "_fillOpacity": 0.30000000000000004,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.796858,
+              15.121517
+            ],
+            [
+              108.793446,
+              15.12102
+            ],
+            [
+              108.793493,
+              15.122541
+            ],
+            [
+              108.796689,
+              15.123065
+            ],
+            [
+              108.796858,
+              15.121517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khu vực Ngã 5 cũ, Ngã 3 Trần Hưng Đạo – Phan Bội Châu",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung </td></tr>\n<tr><td>Thời gian:</td><td>6 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân</td><td>Tại 02 khu này có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án thoát nước đường Phan Chu Trinh; Dự án mở rộng nút giao thông Ngã 5 cũ giai đoạn 2021 – 2025.</td></tr>\n</table>\n  </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#6fa8dc",
+        "_fillOpacity": 0.30000000000000004,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.799472,
+              15.121427
+            ],
+            [
+              108.801622,
+              15.120821
+            ],
+            [
+              108.801641,
+              15.118908
+            ],
+            [
+              108.799815,
+              15.119465
+            ],
+            [
+              108.797271,
+              15.120018
+            ],
+            [
+              108.796987,
+              15.121637
+            ],
+            [
+              108.799472,
+              15.121427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khu vực xung quanh chợ Quảng Ngãi, ngã tư Quang Trung – Nguyễn Nghiêm",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 3:</td><td>Phía Đông đường Quang Trung</td></tr>\n<tr><td>Thời gian:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>0,5m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Do hệ thống thoát dẫn xả khu vực xung quanh chợ Quảng Ngãi đấu nối vào hệ thống thoát nước Hào Thành bị hư hỏng, xuống cấp gây ách tắc dòng chảy</td></tr>\n<tr><td>Giải pháp:</td><td>Đã đưa hạng mục hệ thống thoát nước dẫn xả khu vực xung quanh chợ Quảng Ngãi đấu nối vào hệ thống thoát nước Hào Thành </td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#3d85c6",
+        "_fillOpacity": 0.5,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.807005,
+              15.121292
+            ],
+            [
+              108.804408,
+              15.120203
+            ],
+            [
+              108.80369,
+              15.122003
+            ],
+            [
+              108.805275,
+              15.122628
+            ],
+            [
+              108.806345,
+              15.122933
+            ],
+            [
+              108.807005,
+              15.121292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xung quanh khu dân cư Bắc Lê Lợi",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>Trên 0,6m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố</td></tr>\n</table>\n    </div>\n</body>\n</html>",
         "_color": "#ff0000",
         "_opacity": 1,
         "_weight": 1,
@@ -56,12 +436,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hẻm 320 Lê Lợi",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "Trên 12 giờ",
-        "Chiều sâu ngập:": "Trên 0,6m",
-        "Nguyên nhân:": "cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này",
-        "Giải pháp:": "dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố ",
+        "name": "Xung quanh Bệnh viện đa khoa tỉnh Quảng Ngãi ",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>Trên 12 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân</td><td>Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này.</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố </td></tr>\n</table>\n\t\n\t    </div>\n</body>\n</html>",
         "_color": "#ff0000",
         "_opacity": 1,
         "_weight": 1,
@@ -74,32 +450,36 @@
         "coordinates": [
           [
             [
-              108.799238,
-              15.109342
+              108.791859,
+              15.11699
             ],
             [
-              108.796953,
-              15.110174
+              108.792278,
+              15.115609
             ],
             [
-              108.797443,
-              15.111933
+              108.792582,
+              15.114217
             ],
             [
-              108.797664,
-              15.113007
+              108.792511,
+              15.113654
             ],
             [
-              108.797762,
-              15.113011
+              108.790381,
+              15.113556
             ],
             [
-              108.799242,
-              15.113007
+              108.790362,
+              15.115396
             ],
             [
-              108.799238,
-              15.109342
+              108.790317,
+              15.117005
+            ],
+            [
+              108.791859,
+              15.11699
             ]
           ]
         ]
@@ -108,17 +488,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Đường Phan Đình Phùng (đoạn trước Trường TH Chánh Lộ, Trước Công ty xe buýt Mai Linh).",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "Trên 12 giờ",
-        "Chiều sâu ngập:": "(0,4 ÷ 0,6)m",
-        "Nguyên nhân:": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này",
-        "Giải pháp:": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố ",
+        "name": "Khu vực Ngã 5 mới (đường Nguyễn Trãi, Chu Văn An)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>0,4m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố</td></tr>\n</table>\n\t\n\t    </div>\n</body>\n</html>",
         "_color": "#ff0000",
         "_opacity": 1,
         "_weight": 1,
-        "_fillColor": "#073763",
-        "_fillOpacity": 0.7,
+        "_fillColor": "#3d85c6",
+        "_fillOpacity": 0.5,
         "_dashArray": "4,2"
       },
       "geometry": {
@@ -126,76 +502,104 @@
         "coordinates": [
           [
             [
-              108.804674,
-              15.110899
+              108.794041,
+              15.114013
             ],
             [
-              108.80265,
-              15.110876
+              108.794037,
+              15.114007
             ],
             [
-              108.802608,
-              15.112785
+              108.793867,
+              15.113236
             ],
             [
-              108.804623,
-              15.112806
+              108.793692,
+              15.112464
             ],
             [
-              108.804674,
-              15.110899
+              108.793241,
+              15.112673
+            ],
+            [
+              108.790411,
+              15.112603
+            ],
+            [
+              108.790382,
+              15.113556
+            ],
+            [
+              108.792511,
+              15.113654
+            ],
+            [
+              108.792582,
+              15.114217
+            ],
+            [
+              108.792604,
+              15.114395
+            ],
+            [
+              108.792278,
+              15.115609
+            ],
+            [
+              108.793478,
+              15.115889
+            ],
+            [
+              108.794041,
+              15.114013
             ]
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Nguyễn Công Phương (đoạn giáp Ngã 5 mới)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Do chưa có hệ thống thoát nước</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án xử lý Thoát nước đường Nguyễn Công Phương (đoạn từ Ngã 5 cũ – Ngã 5 mới), đã có trong kế hoạch trung hạn giai đoạn 2021 - 2025</td></tr>\n</table>\n    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#3d85c6",
+        "_fillOpacity": 0.5,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
-              108.804585,
-              15.105846
+              108.797638,
+              15.116959
             ],
             [
-              108.802742,
-              15.105855
+              108.796511,
+              15.113571
             ],
             [
-              108.802737,
-              15.106991
+              108.793867,
+              15.113236
             ],
             [
-              108.802717,
-              15.107868
+              108.794043,
+              15.114007
             ],
             [
-              108.804553,
-              15.107862
+              108.794041,
+              15.114013
             ],
             [
-              108.804585,
-              15.105846
-            ]
-          ],
-          [
-            [
-              108.806386,
-              15.112711
+              108.796367,
+              15.117517
             ],
             [
-              108.806427,
-              15.109992
-            ],
-            [
-              108.804723,
-              15.109867
-            ],
-            [
-              108.804674,
-              15.110899
-            ],
-            [
-              108.804623,
-              15.112806
-            ],
-            [
-              108.806386,
-              15.112711
+              108.797638,
+              15.116959
             ]
           ]
         ]
@@ -205,11 +609,7 @@
       "type": "Feature",
       "properties": {
         "name": "Khu đô thị mới Nam Lê Lợi.",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "8 giờ",
-        "Chiều sâu ngập:": "(0,4 ÷ 0,6)m",
-        "Nguyên nhân:": "cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này",
-        "Giải pháp:": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân:</td><td>cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố</td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
         "_color": "#ff0000",
         "_opacity": 1,
         "_weight": 1,
@@ -390,212 +790,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Đường Lê Lợi (đoạn từ đường Phan Đình Phùng đến đường Lê Quý Đôn)",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "8 giờ",
-        "Chiều sâu ngập": "0,4m",
-        "Nguyên nhân": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này.",
-        "Giải pháp:": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#3d85c6",
-        "_fillOpacity": 0.5,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.803423,
-              15.112997
-            ],
-            [
-              108.802603,
-              15.112999
-            ],
-            [
-              108.802603,
-              15.113035
-            ],
-            [
-              108.799242,
-              15.11307
-            ],
-            [
-              108.797762,
-              15.113011
-            ],
-            [
-              108.797269,
-              15.113012
-            ],
-            [
-              108.796447,
-              15.113023
-            ],
-            [
-              108.796508,
-              15.113558
-            ],
-            [
-              108.801496,
-              15.113516
-            ],
-            [
-              108.801667,
-              15.11359
-            ],
-            [
-              108.803432,
-              15.113601
-            ],
-            [
-              108.803423,
-              15.112997
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Nguyễn Công Phương (đoạn giáp Ngã 5 mới)",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "8 giờ",
-        "Chiều sâu ngập:": "(0,4 ÷ 0,6)m",
-        "Nguyên nhân:": "Do chưa có hệ thống thoát nước",
-        "Giải pháp:": "Dự án xử lý Thoát nước đường Nguyễn Công Phương (đoạn từ Ngã 5 cũ – Ngã 5 mới), đã có trong kế hoạch trung hạn giai đoạn 2021 - 2025",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#3d85c6",
-        "_fillOpacity": 0.5,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.797638,
-              15.116959
-            ],
-            [
-              108.796511,
-              15.113571
-            ],
-            [
-              108.793867,
-              15.113236
-            ],
-            [
-              108.794043,
-              15.114007
-            ],
-            [
-              108.794041,
-              15.114013
-            ],
-            [
-              108.796367,
-              15.117517
-            ],
-            [
-              108.797638,
-              15.116959
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khu vực Ngã 5 mới (đường Nguyễn Trãi, Chu Văn An)",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "8 giờ",
-        "Chiều sâu ngập:": "0,4m",
-        "Nguyên nhân:": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này",
-        "Giải pháp:": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#3d85c6",
-        "_fillOpacity": 0.5,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.794041,
-              15.114013
-            ],
-            [
-              108.794037,
-              15.114007
-            ],
-            [
-              108.793867,
-              15.113236
-            ],
-            [
-              108.793692,
-              15.112464
-            ],
-            [
-              108.793241,
-              15.112673
-            ],
-            [
-              108.790411,
-              15.112603
-            ],
-            [
-              108.790382,
-              15.113556
-            ],
-            [
-              108.792511,
-              15.113654
-            ],
-            [
-              108.792582,
-              15.114217
-            ],
-            [
-              108.792604,
-              15.114395
-            ],
-            [
-              108.792278,
-              15.115609
-            ],
-            [
-              108.793478,
-              15.115889
-            ],
-            [
-              108.794041,
-              15.114013
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Xung quanh Bệnh viện đa khoa tỉnh Quảng Ngãi ",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "Trên 12 giờ",
-        "Chiều sâu ngập:": "(0,4 ÷ 0,6)m",
-        "Nguyên nhân": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này.",
-        "Giải pháp:": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố ",
+        "name": "Hẻm 320 Lê Lợi",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n\t\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>Trên 12 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>Trên 0,6m</td></tr>\n<tr><td>Nguyên nhân:</td><td>cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này</td></tr>\n<tr><td>Giải pháp:</td><td>dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố </td></tr>\n</table>\n\n\t    </div>\n</body>\n</html>",
         "_color": "#ff0000",
         "_opacity": 1,
         "_weight": 1,
@@ -608,36 +804,310 @@
         "coordinates": [
           [
             [
-              108.791859,
-              15.11699
+              108.799238,
+              15.109342
             ],
             [
-              108.792278,
-              15.115609
+              108.796953,
+              15.110174
             ],
             [
-              108.792582,
-              15.114217
+              108.797443,
+              15.111933
             ],
             [
-              108.792511,
-              15.113654
+              108.797664,
+              15.113007
             ],
             [
-              108.790381,
-              15.113556
+              108.797762,
+              15.113011
             ],
             [
-              108.790362,
-              15.115396
+              108.799242,
+              15.113007
             ],
             [
-              108.790317,
-              15.117005
+              108.799238,
+              15.109342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Phan Đình Phùng (đoạn trước Trường TH Chánh Lộ, Trước Công ty xe buýt Mai Linh).",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n\t\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>Trên 12 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập các khu vực này</td></tr>\n<tr><td>Giải pháp:</td><td>Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố </td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#073763",
+        "_fillOpacity": 0.7,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.804674,
+              15.110899
             ],
             [
-              108.791859,
-              15.11699
+              108.80265,
+              15.110876
+            ],
+            [
+              108.802608,
+              15.112785
+            ],
+            [
+              108.804623,
+              15.112806
+            ],
+            [
+              108.804674,
+              15.110899
+            ]
+          ],
+          [
+            [
+              108.804585,
+              15.105846
+            ],
+            [
+              108.802742,
+              15.105855
+            ],
+            [
+              108.802737,
+              15.106991
+            ],
+            [
+              108.802717,
+              15.107868
+            ],
+            [
+              108.804553,
+              15.107862
+            ],
+            [
+              108.804585,
+              15.105846
+            ]
+          ],
+          [
+            [
+              108.806386,
+              15.112711
+            ],
+            [
+              108.806427,
+              15.109992
+            ],
+            [
+              108.804723,
+              15.109867
+            ],
+            [
+              108.804674,
+              15.110899
+            ],
+            [
+              108.804623,
+              15.112806
+            ],
+            [
+              108.806386,
+              15.112711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Quang Trung (đoạn trước Trường ĐH công nghiệp 4)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>0,5m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Hệ thống thoát nước đường Quang Trung dẫn xả về đường Cao Quát đã hư hỏng, xuống cấp, đồng thời hạ lưu của đường Cao Bá Quát (đoạn Quang Trung – Phạm Văn Đồng) đi dưới kênh N6 nên thoát nước rất chậm</td></tr>\n<tr><td>Giải pháp:</td><td>Đã đưa hạng mục đầu tư hạng mục hệ thống thoát nước Đường Quang Trung (đoạn trước Trường ĐH công nghiệp 4) đấu nối vào HTNT đường Huỳnh Thúc Kháng  vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố </td></tr>\n</table>\n\t    </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#3d85c6",
+        "_fillOpacity": 0.5,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.812018,
+              15.10815
+            ],
+            [
+              108.81154,
+              15.107676
+            ],
+            [
+              108.810735,
+              15.107099
+            ],
+            [
+              108.809805,
+              15.109012
+            ],
+            [
+              108.811317,
+              15.109251
+            ],
+            [
+              108.812018,
+              15.10815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Đường Huỳnh Thúc Kháng (đoạn Khu tái định cư ĐH Phạm Văn Đồng)",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 2:</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  </td></tr>\n<tr><td>Thời gian:</td><td>2 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>0,4m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Hệ thống thoát nước này chưa được đấu nối vào hệ thống thoát nước đường Nguyễn Tri Phương và đường Trần Quang Khải</td></tr>\n<tr><td>Giải pháp:</td><td>Đã đưa hạng mục đầu tư hạng mục thoát nước này vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố</td></tr>\n</table>\n   </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#cfe2f3",
+        "_fillOpacity": 0.19999999999999996,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.810147,
+              15.104089
+            ],
+            [
+              108.810555,
+              15.102568
+            ],
+            [
+              108.807752,
+              15.102441
+            ],
+            [
+              108.807636,
+              15.103622
+            ],
+            [
+              108.807615,
+              15.104304
+            ],
+            [
+              108.810023,
+              15.105318
+            ],
+            [
+              108.810147,
+              15.104089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khu vực phía Tây phường Quảng Phú",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực 4:</td><td>Phía Tây đường sắt</td></tr>\n<tr><td>Thời gian:</td><td>Trên 12 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,6 ÷ 1,0)m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy kênh Từ Ty và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm hạn chế thoát nước kênh Từ Ty chảy ra dẫn đến ngập úng cục bộ. Mặc khác, khu vực này hệ thống thoát nước dọc các tuyến đường phố chính đầu tư theo quy hoạch còn ít, dẫn đến thoát nước các hẻm phố không có điểm đấu nối gây ngập.  </td></tr>\n<tr><td>Giải pháp</td><td></td></tr>\n</table>\n   </div>\n</body>\n</html>",
+        "_color": "#ff0000",
+        "_opacity": 1,
+        "_weight": 1,
+        "_fillColor": "#073763",
+        "_fillOpacity": 0.7,
+        "_dashArray": "4,2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.777634,
+              15.102171
+            ],
+            [
+              108.777736,
+              15.10114
+            ],
+            [
+              108.768406,
+              15.101846
+            ],
+            [
+              108.767738,
+              15.104093
+            ],
+            [
+              108.77762,
+              15.10416
+            ],
+            [
+              108.7788,
+              15.102342
+            ],
+            [
+              108.777634,
+              15.102171
+            ]
+          ],
+          [
+            [
+              108.777506,
+              15.10488
+            ],
+            [
+              108.769811,
+              15.104713
+            ],
+            [
+              108.769302,
+              15.111788
+            ],
+            [
+              108.773299,
+              15.112254
+            ],
+            [
+              108.775043,
+              15.112556
+            ],
+            [
+              108.77896,
+              15.112233
+            ],
+            [
+              108.779499,
+              15.112037
+            ],
+            [
+              108.778779,
+              15.110007
+            ],
+            [
+              108.777588,
+              15.108505
+            ],
+            [
+              108.777218,
+              15.107369
+            ],
+            [
+              108.777506,
+              15.10488
             ]
           ]
         ]
@@ -647,12 +1117,7 @@
       "type": "Feature",
       "properties": {
         "name": "Khu dân cư Phan Đình Phùng (KDC Phát Đạt)",
-        "Lưu vực": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung",
-        "Ký hiệu": "Lưu vực 2",
-        "Thời gian": "6 giờ",
-        "Chiều sâu ngập": "0,4m",
-        "Nguyên nhân": "Hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang thấp hơn cao độ mức nước lũ sông Bàu Giang, làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập",
-        "Giải pháp": "Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố",
+        "description": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <style>\n        .scrollable {\n            overflow: auto;\n            height: 150px;\n            width: 500px;\n            border: 1px solid #ccc;\n            padding: 10px;\n            font-family: Arial, sans-serif;\n            background: rgba(255, 255, 255, 0.5); /* Màu nền trong suốt */\n            resize: both; /* Cho phép kéo rộng cả hai chiều */\n        }\n        \n     table {\n            border-collapse: collapse;\n        }\n        \n       table, th, td {\n        border: 1px solid rgba(0, 0, 255, 0.5);\n    }    </style>\n</head>\n<body>\n    <div class=\"scrollable\">\n<table>\n<tr><td>Lưu vực</td><td>Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung</td></tr>\n<tr><td>Ký hiệu</td><td>Lưu vực 2</td></tr>\n<tr><td>Thời gian</td><td>6 giờ</td></tr>\n<tr><td>Chiều sâu ngập</td><td>0,4m</td></tr>\n<tr><td>Nguyên nhân</td><td>Hiện trạng đáy cống của hệ thống thoát nước chính dẫn xả ra sông Bàu Giang thấp hơn cao độ mức nước lũ sông Bàu Giang, làm chặn dòng chảy từ khu dân cư chảy ra dẫn đến ngập</td></tr>\n<tr><td>Giải pháp</td><td>Dự án Đầu tư dự án Kè sông Bàu Giang và trạm bơm phía Nam thành phố, xử lý ngập úng cục bộ và cải tạo các hồ điều hòa trên địa bàn thành phố</td></tr>\n</table>\n   </div>\n</body>\n</html>",
         "_color": "#ff0000",
         "_opacity": 1,
         "_weight": 1,
@@ -761,541 +1226,6 @@
             [
               108.803024,
               15.101483
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khu vực Ngã 5 cũ, Ngã 3 Trần Hưng Đạo – Phan Bội Châu",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung ",
-        "Thời gian:": "6 giờ",
-        "Chiều sâu ngập:": "(0,4 ÷ 0,6)m",
-        "Nguyên nhân": "Tại 02 khu này có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập",
-        "Giải pháp:": "Dự án thoát nước đường Phan Chu Trinh; Dự án mở rộng nút giao thông Ngã 5 cũ giai đoạn 2021 – 2025.",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#6fa8dc",
-        "_fillOpacity": 0.30000000000000004,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.799472,
-              15.121427
-            ],
-            [
-              108.801622,
-              15.120821
-            ],
-            [
-              108.801641,
-              15.118908
-            ],
-            [
-              108.799815,
-              15.119465
-            ],
-            [
-              108.797271,
-              15.120018
-            ],
-            [
-              108.796987,
-              15.121637
-            ],
-            [
-              108.799472,
-              15.121427
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Hùng Vương (đoạn trước tỉnh Đoàn)",
-        "Khu vực 1:": "Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung  ",
-        "Thời gian: ": "6 giờ ",
-        "Chiều sâu ngập:": "0,4m",
-        "Nguyên nhân:": "Đường Hùng Vương (đoạn trước tỉnh Đoàn) có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập",
-        "Giải pháp:": "Nối thẳng hệ thống thoát nước đường Phan Đình Phùng ra đường Quang Trung sau đó xả về hồ Bàu Cả vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố (2021-2025)",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#6fa8dc",
-        "_fillOpacity": 0.30000000000000004,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.796858,
-              15.121517
-            ],
-            [
-              108.793446,
-              15.12102
-            ],
-            [
-              108.793493,
-              15.122541
-            ],
-            [
-              108.796689,
-              15.123065
-            ],
-            [
-              108.796858,
-              15.121517
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Phan Đình Phùng (đoạn trước Thành ủy)",
-        "description": "<table>\n<tr><td>Khu vực 1:</td><td>Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung  </td></tr>\n<tr><td>Thời gian ngập:</td><td>8 giờ</td></tr>\n<tr><td>Chiều sâu ngập:</td><td>(0,4 ÷ 0,6)m</td></tr>\n<tr><td>Nguyên nhân:</td><td>Do đường Phan Đình Phùng (đoạn trước Thành ủy) có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập. <br>Đồng thời, hệ thống thoát nước đi dưới vỉa hè đường Phan Đình Phùng, chuyển hướng dọc theo đường hẻm hiện trạng ra KDC Bàu Cả, sau đó đi gấp khúc 2 lần đấu nối vào thoát nước Bàu Sử - Bàu Cả, do hệ thống thoát đi quanh co, gấp khúc cho nên thoát nước chậm</td></tr>\n<tr><td>Giải pháp:</td><td>Nối thẳng hệ thống thoát nước đường Phan Đình Phùng ra đường Quang Trung sau đó xả về hồ Bàu Cả vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố (2021-2025)</td></tr>\n</table>",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#3d85c6",
-        "_fillOpacity": 0.5,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.802382,
-              15.123565
-            ],
-            [
-              108.800578,
-              15.12329
-            ],
-            [
-              108.800481,
-              15.123914
-            ],
-            [
-              108.800412,
-              15.124545
-            ],
-            [
-              108.80215,
-              15.124944
-            ],
-            [
-              108.802382,
-              15.123565
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Nguyễn Tự Tân (đoạn từ đường Phan Bội Châu – Phan Đình Phùng",
-        "Lưu vực 1:": "Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung",
-        "Thời gian:": "3 giờ ",
-        "Chiều sâu ngập:": "0,4m",
-        "Nguyên nhân:": "Đường Nguyễn Tự Tân có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập.",
-        "Giải pháp:": "Nối thẳng hệ thống thoát nước đường Phan Đình Phùng ra đường Quang Trung sau đó xả về hồ Bàu Cả vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố (2021-2025)",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#9fc5e8",
-        "_fillOpacity": 0.19999999999999996,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.800412,
-              15.124545
-            ],
-            [
-              108.800383,
-              15.124539
-            ],
-            [
-              108.800481,
-              15.123914
-            ],
-            [
-              108.797068,
-              15.123417
-            ],
-            [
-              108.797116,
-              15.124938
-            ],
-            [
-              108.800312,
-              15.125462
-            ],
-            [
-              108.800412,
-              15.124545
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ngã tư Hùng Vương – Quang Trung",
-        "Lưu vực 1:": "Bắc đường Hùng Vương - Nguyễn Thụy - đường sắt – Tôn Đức Thắng – Quang Trung ",
-        "Thời gian ngập:": "6 giờ",
-        "Chiều sâu ngập": "0,4m",
-        "Nguyên nhân": "Tại ngã tư Hùng Vương – Quang Trung, có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập",
-        "Giải pháp": "Đầu tư nâng cấp hệ thống thoát nước đường Quang Trung (đoạn từ đường Nguyễn Nghiêm – hồ Bàu Cả) đấu nối vào hồ Bàu Cả",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#6fa8dc",
-        "_fillOpacity": 0.30000000000000004,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.805275,
-              15.122628
-            ],
-            [
-              108.804317,
-              15.122354
-            ],
-            [
-              108.80369,
-              15.122003
-            ],
-            [
-              108.802602,
-              15.12412
-            ],
-            [
-              108.804503,
-              15.124855
-            ],
-            [
-              108.805275,
-              15.122628
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khu vực xung quanh chợ Quảng Ngãi, ngã tư Quang Trung – Nguyễn Nghiêm",
-        "Lưu vực 3:": "Phía Đông đường Quang Trung",
-        "Thời gian:": "8 giờ",
-        "Chiều sâu ngập:": "0,5m",
-        "Nguyên nhân:": "Do hệ thống thoát dẫn xả khu vực xung quanh chợ Quảng Ngãi đấu nối vào hệ thống thoát nước Hào Thành bị hư hỏng, xuống cấp gây ách tắc dòng chảy",
-        "Giải pháp:": "Đã đưa hạng mục hệ thống thoát nước dẫn xả khu vực xung quanh chợ Quảng Ngãi đấu nối vào hệ thống thoát nước Hào Thành ",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#3d85c6",
-        "_fillOpacity": 0.5,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.807005,
-              15.121292
-            ],
-            [
-              108.804408,
-              15.120203
-            ],
-            [
-              108.80369,
-              15.122003
-            ],
-            [
-              108.805275,
-              15.122628
-            ],
-            [
-              108.806345,
-              15.122933
-            ],
-            [
-              108.807005,
-              15.121292
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khu vực phía Tây phường Quảng Phú",
-        "Lưu vực 4:": "Phía Tây đường sắt",
-        "Thời gian:": "Trên 12 giờ",
-        "Chiều sâu ngập:": "(0,6 ÷ 1,0)m",
-        "Nguyên nhân:": "Nguyên nhân chính ngập úng lưu vực này do cao độ hiện trạng đáy kênh Từ Ty và cao độ mức nước trung bình của sông Bàu Giang là không lớn, cho nên khi nước lũ từ đầu nguồn đổ về sông Bàu Giang làm hạn chế thoát nước kênh Từ Ty chảy ra dẫn đến ngập úng cục bộ. Mặc khác, khu vực này hệ thống thoát nước dọc các tuyến đường phố chính đầu tư theo quy hoạch còn ít, dẫn đến thoát nước các hẻm phố không có điểm đấu nối gây ngập.  ",
-        "Giải pháp": "",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#073763",
-        "_fillOpacity": 0.7,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.777634,
-              15.102171
-            ],
-            [
-              108.777736,
-              15.10114
-            ],
-            [
-              108.768406,
-              15.101846
-            ],
-            [
-              108.767738,
-              15.104093
-            ],
-            [
-              108.77762,
-              15.10416
-            ],
-            [
-              108.7788,
-              15.102342
-            ],
-            [
-              108.777634,
-              15.102171
-            ]
-          ],
-          [
-            [
-              108.777506,
-              15.10488
-            ],
-            [
-              108.769811,
-              15.104713
-            ],
-            [
-              108.769302,
-              15.111788
-            ],
-            [
-              108.773299,
-              15.112254
-            ],
-            [
-              108.775043,
-              15.112556
-            ],
-            [
-              108.77896,
-              15.112233
-            ],
-            [
-              108.779499,
-              15.112037
-            ],
-            [
-              108.778779,
-              15.110007
-            ],
-            [
-              108.777588,
-              15.108505
-            ],
-            [
-              108.777218,
-              15.107369
-            ],
-            [
-              108.777506,
-              15.10488
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Quang Trung (đoạn trước Trường ĐH công nghiệp 4)",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "8 giờ",
-        "Chiều sâu ngập:": "0,5m",
-        "Nguyên nhân:": "Hệ thống thoát nước đường Quang Trung dẫn xả về đường Cao Quát đã hư hỏng, xuống cấp, đồng thời hạ lưu của đường Cao Bá Quát (đoạn Quang Trung – Phạm Văn Đồng) đi dưới kênh N6 nên thoát nước rất chậm",
-        "Giải pháp:": "Đã đưa hạng mục đầu tư hạng mục hệ thống thoát nước Đường Quang Trung (đoạn trước Trường ĐH công nghiệp 4) đấu nối vào HTNT đường Huỳnh Thúc Kháng  vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố ",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#3d85c6",
-        "_fillOpacity": 0.5,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.812018,
-              15.10815
-            ],
-            [
-              108.81154,
-              15.107676
-            ],
-            [
-              108.810735,
-              15.107099
-            ],
-            [
-              108.809805,
-              15.109012
-            ],
-            [
-              108.811317,
-              15.109251
-            ],
-            [
-              108.812018,
-              15.10815
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Huỳnh Thúc Kháng (đoạn Khu tái định cư ĐH Phạm Văn Đồng)",
-        "Lưu vực 2:": "Nam đường Hùng Vương – Nguyễn Thụy - đường sắt – sông Bàu Giang – Quang Trung  ",
-        "Thời gian:": "2 giờ",
-        "Chiều sâu ngập:": "0,4m",
-        "Nguyên nhân:": "Hệ thống thoát nước này chưa được đấu nối vào hệ thống thoát nước đường Nguyễn Tri Phương và đường Trần Quang Khải",
-        "Giải pháp:": "Đã đưa hạng mục đầu tư hạng mục thoát nước này vào dự án Nâng cấp, chỉnh trang các trục đường chính trên địa bàn thành phố",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#cfe2f3",
-        "_fillOpacity": 0.19999999999999996,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.810147,
-              15.104089
-            ],
-            [
-              108.810555,
-              15.102568
-            ],
-            [
-              108.807752,
-              15.102441
-            ],
-            [
-              108.807636,
-              15.103622
-            ],
-            [
-              108.807615,
-              15.104304
-            ],
-            [
-              108.810023,
-              15.105318
-            ],
-            [
-              108.810147,
-              15.104089
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Đường Nguyễn Văn Linh (Khu vực Chợ Hàng Rượu)",
-        "Lưu vực 5": "Phía Bắc sông Trà Khúc thuộc phường Trương Quang Trọng và xã Tịnh Án Tây ",
-        "Thời gian": "4 giờ",
-        "Chiều sâu ngập": "0,5m",
-        "Hướng thoát nước": "",
-        "Nguyên nhân": "Tại vị trí có hiện trạng thấp hơn khu vực xung quanh, dẫn đến nước mưa chảy về khu vực này gây ngập.",
-        "Giải pháp": "UBND thành phố đã  chỉ đạo làm việc với Công ty TNHH Đầu tư Sông Trà (chủ đầu tư dự án Khu đô thị Chợ mới Hàng Rượu) khơi thông hố ga đấu nối thoát nước đường Nguyễn Văn Linh (tại vị trí nối với dự án Khu đô thị Chợ mới Hàng Rượu) tăng khả năng thoát nước cho khu vực này.",
-        "_color": "#ff0000",
-        "_opacity": 1,
-        "_weight": 1,
-        "_fillColor": "#9fc5e8",
-        "_fillOpacity": 0.30000000000000004,
-        "_dashArray": "4,2"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              108.798879,
-              15.158727
-            ],
-            [
-              108.796728,
-              15.156093
-            ],
-            [
-              108.796773,
-              15.155048
-            ],
-            [
-              108.7951,
-              15.155053
-            ],
-            [
-              108.795316,
-              15.159161
-            ],
-            [
-              108.798879,
-              15.158727
             ]
           ]
         ]
