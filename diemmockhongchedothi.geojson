@@ -1,0 +1,1544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.73028,
+          14.766948
+        ]
+      },
+      "properties": {
+        "name": "BTSC1",
+        "TT:": "1",
+        "X(m):": "1633280.586",
+        "Y(m):": "578424.605",
+        "Z(m):": "54.428",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.733965,
+          14.764459
+        ]
+      },
+      "properties": {
+        "name": "BTSC2",
+        "TT:": "2",
+        "X(m):": "1633006.467",
+        "Y(m):": "578822.272",
+        "Z(m):": "50.278",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.720076,
+          14.756532
+        ]
+      },
+      "properties": {
+        "name": "BTSC3",
+        "TT:": "3",
+        "X(m):": "1632124.539",
+        "Y(m):": "577329.687",
+        "Z(m):": "50.545",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.557671,
+          14.705736
+        ]
+      },
+      "properties": {
+        "name": "BV-SC1",
+        "TT:": "4",
+        "X(m):": "1626454.838",
+        "Y(m):": "559858.086",
+        "Z(m):": "143.864",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.560523,
+          14.705649
+        ]
+      },
+      "properties": {
+        "name": "BV-SC2",
+        "TT:": "5",
+        "X(m):": "1626445.998",
+        "Y(m):": "560165.273",
+        "Z(m):": "145.454",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.559272,
+          14.709221
+        ]
+      },
+      "properties": {
+        "name": "BV-SC3",
+        "TT:": "6",
+        "X(m):": "1626840.851",
+        "Y(m):": "560029.522",
+        "Z(m):": "141.591",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.761578,
+          15.29772
+        ]
+      },
+      "properties": {
+        "name": "BS-SC1",
+        "TT:": "7",
+        "X(m):": "1692019.718",
+        "Y(m):": "581591.788",
+        "Z(m):": "5.310",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.759046,
+          15.299789
+        ]
+      },
+      "properties": {
+        "name": "BS-SC2",
+        "TT:": "8",
+        "X(m):": "1692247.729",
+        "Y(m):": "581319.041",
+        "Z(m):": "4.030",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.756018,
+          15.307512
+        ]
+      },
+      "properties": {
+        "name": "BS-SC3",
+        "TT:": "9",
+        "X(m):": "1693101.146",
+        "Y(m):": "580990.894",
+        "Z(m):": "5.207",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.963509,
+          14.808288
+        ]
+      },
+      "properties": {
+        "name": "ĐP-SC1",
+        "TT:": "10",
+        "X(m):": "1637949.405",
+        "Y(m):": "603515.710",
+        "Z(m):": "5.783",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.961651,
+          14.816055
+        ]
+      },
+      "properties": {
+        "name": "ĐP-SC2",
+        "TT:": "11",
+        "X(m):": "1638807.966",
+        "Y(m):": "603312.036",
+        "Z(m):": "9.386",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.962569,
+          14.803892
+        ]
+      },
+      "properties": {
+        "name": "ĐP-SC3",
+        "TT:": "12",
+        "X(m):": "1637462.553",
+        "Y(m):": "603416.665",
+        "Z(m):": "4.261",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.963676,
+          14.80124
+        ]
+      },
+      "properties": {
+        "name": "ĐP-SC4",
+        "TT:": "13",
+        "X(m):": "1637169.623",
+        "Y(m):": "603537.012",
+        "Z(m):": "6.315",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95259,
+          14.818683
+        ]
+      },
+      "properties": {
+        "name": "ĐP-SC5",
+        "TT:": "14",
+        "X(m):": "1639094.576",
+        "Y(m):": "602335.435",
+        "Z(m):": "4.965",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955754,
+          14.812051
+        ]
+      },
+      "properties": {
+        "name": "ĐP-SC6",
+        "TT:": "15",
+        "X(m):": "1638362.195",
+        "Y(m):": "602679.106",
+        "Z(m):": "5.215",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.11848,
+          15.371208
+        ]
+      },
+      "properties": {
+        "name": "LS-SC1",
+        "TT:": "16",
+        "X(m):": "1700317.828",
+        "Y(m):": "619881.801",
+        "Z(m):": "18.284",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.120076,
+          15.376436
+        ]
+      },
+      "properties": {
+        "name": "LS-SC2",
+        "TT:": "17",
+        "X(m):": "1700897.246",
+        "Y(m):": "620050.19",
+        "Z(m):": "23.749",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.12091,
+          15.380319
+        ]
+      },
+      "properties": {
+        "name": "LS-SC3",
+        "TT:": "18",
+        "X(m):": "1701327.407",
+        "Y(m):": "620137.465",
+        "Z(m):": "26.167",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.70307,
+          14.932437
+        ]
+      },
+      "properties": {
+        "name": "ML-SC1",
+        "TT:": "19",
+        "X(m):": "1651581.442",
+        "Y(m):": "575437.502",
+        "Z(m):": "65.499",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.699754,
+          14.929724
+        ]
+      },
+      "properties": {
+        "name": "ML-SC2",
+        "TT:": "20",
+        "X(m):": "1651280.205",
+        "Y(m):": "575081.781",
+        "Z(m):": "64.763",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.70775,
+          14.939262
+        ]
+      },
+      "properties": {
+        "name": "ML-SC3",
+        "TT:": "21",
+        "X(m):": "1652338.223",
+        "Y(m):": "575938.582",
+        "Z(m):": "63.204",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.887746,
+          14.949656
+        ]
+      },
+      "properties": {
+        "name": "MD-SC1",
+        "TT:": "22",
+        "X(m):": "1653557.811",
+        "Y(m):": "595297.857",
+        "Z(m):": "3.627",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.886433,
+          14.955051
+        ]
+      },
+      "properties": {
+        "name": "MD-SC2",
+        "TT:": "23",
+        "X(m):": "1654154.225",
+        "Y(m):": "595154.228",
+        "Z(m):": "4.178",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.891937,
+          14.945012
+        ]
+      },
+      "properties": {
+        "name": "MD-SC3",
+        "TT:": "24",
+        "X(m):": "1653045.785",
+        "Y(m):": "595750.713",
+        "Z(m):": "4.016",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.777844,
+          15.051218
+        ]
+      },
+      "properties": {
+        "name": "NH-SC1",
+        "TT:": "25",
+        "X(m):": "1664750.943",
+        "Y(m):": "583435.640",
+        "Z(m):": "9.917",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.776034,
+          15.042451
+        ]
+      },
+      "properties": {
+        "name": "NH-SC2",
+        "TT:": "26",
+        "X(m):": "1663780.285",
+        "Y(m):": "583244.428",
+        "Z(m):": "9.510",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.778375,
+          15.058416
+        ]
+      },
+      "properties": {
+        "name": "NH-SC3",
+        "TT:": "27",
+        "X(m):": "1665547.560",
+        "Y(m):": "583489.914",
+        "Z(m):": "9.179",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.470559,
+          15.041212
+        ]
+      },
+      "properties": {
+        "name": "SH-SC1",
+        "TT:": "28",
+        "X(m):": "1663550.421",
+        "Y(m):": "550398.874",
+        "Z(m):": "69.247",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.475422,
+          15.036083
+        ]
+      },
+      "properties": {
+        "name": "SH-SC2",
+        "TT:": "29",
+        "X(m):": "1662984.082",
+        "Y(m):": "550922.899",
+        "Z(m):": "61.904",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.47689,
+          15.052945
+        ]
+      },
+      "properties": {
+        "name": "SH-SC3",
+        "TT:": "30",
+        "X(m):": "1664849.979",
+        "Y(m):": "551076.772",
+        "Z(m):": "68.523",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.329132,
+          15.007825
+        ]
+      },
+      "properties": {
+        "name": "ST-SC1",
+        "TT:": "31",
+        "X(m):": "1659828.989",
+        "Y(m):": "535197.954",
+        "Z(m):": "255.505",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.324698,
+          15.014103
+        ]
+      },
+      "properties": {
+        "name": "ST-SC2",
+        "TT:": "32",
+        "X(m):": "1660522.863",
+        "Y(m):": "534720.063",
+        "Z(m):": "263.957",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.328106,
+          15.016355
+        ]
+      },
+      "properties": {
+        "name": "ST-SC3",
+        "TT:": "33",
+        "X(m):": "1660772.587",
+        "Y(m):": "535086.192",
+        "Z(m):": "260.405",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.743196,
+          15.161636
+        ]
+      },
+      "properties": {
+        "name": "TH-SC1",
+        "TT:": "34",
+        "X(m):": "1676955.457",
+        "Y(m):": "579668.867",
+        "Z(m):": "10.309",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.741587,
+          15.158073
+        ]
+      },
+      "properties": {
+        "name": "TH-SC2",
+        "TT:": "35",
+        "X(m):": "1676560.670",
+        "Y(m):": "579497.340",
+        "Z(m):": "11.262",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.741633,
+          15.153561
+        ]
+      },
+      "properties": {
+        "name": "TH-SC3",
+        "TT:": "36",
+        "X(m):": "1676061.506",
+        "Y(m):": "579504.011",
+        "Z(m):": "10.963",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.853118,
+          15.046748
+        ]
+      },
+      "properties": {
+        "name": "SV-SC1",
+        "TT:": "37",
+        "X(m):": "1664286.336",
+        "Y(m):": "591531.265",
+        "Z(m):": "4.477",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.848711,
+          15.048509
+        ]
+      },
+      "properties": {
+        "name": "SV-SC2",
+        "TT:": "38",
+        "X(m):": "1664479.262",
+        "Y(m):": "591056.711",
+        "Z(m):": "5.373",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.852093,
+          15.052487
+        ]
+      },
+      "properties": {
+        "name": "SV-SC3",
+        "TT:": "39",
+        "X(m):": "1664920.840",
+        "Y(m):": "591418.639",
+        "Z(m):": "4.288",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.358477,
+          15.161184
+        ]
+      },
+      "properties": {
+        "name": "TT-SC1",
+        "TT:": "40",
+        "X(m):": "1676801.535",
+        "Y(m):": "538326.006",
+        "Z(m):": "231.405",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.355571,
+          15.166189
+        ]
+      },
+      "properties": {
+        "name": "TT-SC2",
+        "TT:": "41",
+        "X(m):": "1677354.746",
+        "Y(m):": "538012.829",
+        "Z(m):": "224.59",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.360333,
+          15.171394
+        ]
+      },
+      "properties": {
+        "name": "TT-SC3",
+        "TT:": "42",
+        "X(m):": "1677931.469",
+        "Y(m):": "538523.547",
+        "Z(m):": "225.70",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.916993,
+          14.896079
+        ]
+      },
+      "properties": {
+        "name": "TR-SC1",
+        "TT:": "43",
+        "X(m):": "1647642.336",
+        "Y(m):": "598468.519",
+        "Z(m):": "5.916",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.921318,
+          14.888619
+        ]
+      },
+      "properties": {
+        "name": "TR-SC2",
+        "TT:": "44",
+        "X(m):": "1646818.846",
+        "Y(m):": "598937.376",
+        "Z(m):": "5.739",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.917564,
+          14.886759
+        ]
+      },
+      "properties": {
+        "name": "TR-SC3",
+        "TT:": "45",
+        "X(m):": "1646611.337",
+        "Y(m):": "598534.190",
+        "Z(m):": "5.775",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.81157,
+          15.12853
+        ]
+      },
+      "properties": {
+        "name": "TP-SC1",
+        "TT:": "46",
+        "X(m):": "1673318.442",
+        "Y(m):": "587030.411",
+        "Z(m):": "7.335",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.817056,
+          15.125166
+        ]
+      },
+      "properties": {
+        "name": "TP-SC2",
+        "TT:": "47",
+        "X(m):": "1672948.367",
+        "Y(m):": "587621.480",
+        "Z(m):": "5.758",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.803513,
+          15.100192
+        ]
+      },
+      "properties": {
+        "name": "TP-SC3",
+        "TT:": "48",
+        "X(m):": "1670179.698",
+        "Y(m):": "586175.857",
+        "Z(m):": "5.713",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.799756,
+          15.100896
+        ]
+      },
+      "properties": {
+        "name": "TP-SC4",
+        "TT:": "49",
+        "X(m):": "1670256.196",
+        "Y(m):": "585771.747",
+        "Z(m):": "6.285",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.779096,
+          15.113619
+        ]
+      },
+      "properties": {
+        "name": "TP-SC5",
+        "TT:": "50",
+        "X(m):": "1671655.976",
+        "Y(m):": "583545.784",
+        "Z(m):": "7.995",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.774773,
+          15.114605
+        ]
+      },
+      "properties": {
+        "name": "TP-SC6",
+        "TT:": "51",
+        "X(m):": "1671763.449",
+        "Y(m):": "583080.795",
+        "Z(m):": "8.766",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5132,
+          15.257105
+        ]
+      },
+      "properties": {
+        "name": "TB-SC1",
+        "TT:": "52",
+        "X(m):": "1687447.634",
+        "Y(m):": "554927.831",
+        "Z(m):": "35.17",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.523281,
+          15.255965
+        ]
+      },
+      "properties": {
+        "name": "TB-SC2",
+        "TT:": "53",
+        "X(m):": "1687324.067",
+        "Y(m):": "556010.914",
+        "Z(m):": "44.366",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.532314,
+          15.25312
+        ]
+      },
+      "properties": {
+        "name": "TB-SC3",
+        "TT:": "54",
+        "X(m):": "1687011.697",
+        "Y(m):": "556982.013",
+        "Z(m):": "41.581",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.835781,
+          15.085853
+        ]
+      },
+      "properties": {
+        "name": "TN-SC1",
+        "TT:": "55",
+        "X(m):": "1668606.033",
+        "Y(m):": "589650.653",
+        "Z(m):": "4.167",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.82684,
+          15.084194
+        ]
+      },
+      "properties": {
+        "name": "TN-SC2",
+        "TT:": "56",
+        "X(m):": "1668418.865",
+        "Y(m):": "588690.217",
+        "Z(m):": "4.579",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.821849,
+          15.091738
+        ]
+      },
+      "properties": {
+        "name": "TN-SC3",
+        "TT:": "57",
+        "X(m):": "1669251.529",
+        "Y(m):": "588150.471",
+        "Z(m):": "4.677",
+        "_markerType": "Icon",
+        "_iconUrl": "https://raw.githubusercontent.com/xaydungquangngai/bando/main/image/symbols/1111.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    }
+  ]
+}
