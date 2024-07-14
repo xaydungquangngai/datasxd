@@ -464,7 +464,8 @@
         "_weight": 3,
         "_fillColor": "#A783C7",
         "_fillOpacity": 0.7,
-        "_dashArray": "1,6"
+        "_dashArray": "1,6",
+        "_hatchPattern": "diagonal" 
       },
       "geometry": {
         "type": "MultiPolygon",
